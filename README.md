@@ -6,3 +6,5 @@ Este es una practica de Git.
 - Cambiar el codigo 
 - Configurar los cambios (git commit)
 - Enviar los cambios a github (git pull)
+
+Es todo!
