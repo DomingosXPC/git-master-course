@@ -7,4 +7,4 @@ Este es una practica de Git.
 - Configurar los cambios (git commit)
 - Enviar los cambios a github (git pull)
 
-Es todo!
+Es todo! Y ya lo tenemos
